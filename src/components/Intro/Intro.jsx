@@ -10,7 +10,3 @@ export default function Intro() {
         </p>
   </div>;
 }
-<div class="alert alert-dismissible alert-light">
-  <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
-  <strong>Heads up!</strong> This <a href="#" class="alert-link">alert needs your attention</a>, but it's not super important.
-</div>
