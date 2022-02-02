@@ -1,12 +1,92 @@
 import './Intro.css'
 import React from 'react';
+// import image from "././public/me.png"
 
 export default function Intro() {
   return <div className='intro'>
-    <p>
-          My name is Siddharth Desai with a degree in Computer Science from NJIT. I kick started my career at Lockheed Martin where I worked in the roles of Software Engineer and Systems Engineer. At Lockheed Martin, I worked on many complex and exciting projects SCOT-Aegis which simulated the environment for operators in ships that used the Aegis Combat system. I learned tremendously about different weapon systems, radar, sensors, luminator trajectory mathematics and much more. The complex work at Lockheed helped me develop a strong work ethic and improve my overall knowledge on how to be a better engineer. I am currently working at PSEG based out of NJ and support various applications  such as FileNet, McLaren, Axway, iManage and recently was given a new task to automate manual workflows, controls and upload data to a cloud environment. I have learned extensively about servers, security and network infrastructure. 
-         
-          A little more about me is that I have a dog named Hiro and a beautiful wife named Neha. My wife recently started a job in Colorado so we moved here and I am working fully remote. Some of my hobbies are reading manga, watching anime, and studying different topics such as philosophy, hydroponics, and astronomy. I also love working out, hiking, playing sports and of course playing video games.
-        </p>
+
+    <div className="row" >
+      <div className='col-sm'>
+        <div className="banner">
+          <img src="./sid.jpg" alt="Logo" />
+        </div>
+      </div>
+    </div>
+    <div className="row" >
+      <div className='col-sm'>
+        <div className="cardForm">
+          <div className="card border-primary mb-3" style={{ maxWidth: '20rem' }}>
+            <div className="card-header">Header</div>
+            <div className="card-body">
+              <h4 className="card-title">Primary card title</h4>
+              <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+
   </div>;
 }
+
+
+{/* <div>
+<div className="card border-primary mb-3" style={{maxWidth: '20rem'}}>
+  <div className="card-header">Header</div>
+  <div className="card-body">
+    <h4 className="card-title">Primary card title</h4>
+    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+<div className="card border-secondary mb-3" style={{maxWidth: '20rem'}}>
+  <div className="card-header">Header</div>
+  <div className="card-body">
+    <h4 className="card-title">Secondary card title</h4>
+    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+<div className="card border-success mb-3" style={{maxWidth: '20rem'}}>
+  <div className="card-header">Header</div>
+  <div className="card-body">
+    <h4 className="card-title">Success card title</h4>
+    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+<div className="card border-danger mb-3" style={{maxWidth: '20rem'}}>
+  <div className="card-header">Header</div>
+  <div className="card-body">
+    <h4 className="card-title">Danger card title</h4>
+    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+<div className="card border-warning mb-3" style={{maxWidth: '20rem'}}>
+  <div className="card-header">Header</div>
+  <div className="card-body">
+    <h4 className="card-title">Warning card title</h4>
+    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+<div className="card border-info mb-3" style={{maxWidth: '20rem'}}>
+  <div className="card-header">Header</div>
+  <div className="card-body">
+    <h4 className="card-title">Info card title</h4>
+    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+<div className="card border-light mb-3" style={{maxWidth: '20rem'}}>
+  <div className="card-header">Header</div>
+  <div className="card-body">
+    <h4 className="card-title">Light card title</h4>
+    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+<div className="card border-dark mb-3" style={{maxWidth: '20rem'}}>
+  <div className="card-header">Header</div>
+  <div className="card-body">
+    <h4 className="card-title">Dark card title</h4>
+    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+</div> */}

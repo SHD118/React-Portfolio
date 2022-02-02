@@ -4,7 +4,7 @@ import Intro from "./components/Intro/Intro"
 import Works from "./components/Works/Works"
 import Contact from "./components/Contact/Contact"
 import './App.css'
-import {BroswerRouter as   
+import {BrowserRouter as   
   Router, Route,
   Link, Switch} from 'react-router-dom'
 
