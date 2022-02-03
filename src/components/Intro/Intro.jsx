@@ -3,6 +3,7 @@ import React from 'react';
 import image from "../../images/me.png";
 
 
+
 export default function Intro() {
   return <div className='intro'>
 
@@ -57,12 +58,13 @@ export default function Intro() {
 
 
 
-    </div>;
+    </div>
 
     <div class="container bars">
       <div class="row">
         <div>
           <div className="progress">
+            <h1>JS</h1>
             <div className="progress-bar bg-success" role="progressbar" style={{ width: '25%' }} aria-valuenow={25} aria-valuemin={0} aria-valuemax={100} />
           </div>
           <div className="progress">
