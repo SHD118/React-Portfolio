@@ -1,6 +1,6 @@
-import "./Topper.css";
+import "./nav.css";
 import React from 'react';
-import Intro from '../Intro/Intro.jsx'
+import About from '../About/about.jsx'
 import Contact from '../Contact/Contact.jsx'
 import Works from '../Works/Works.jsx'
 // import { Link } from 'react-router-dom';
@@ -23,15 +23,10 @@ export default function Topper() {
             </button>
             <div className="collapse navbar-collapse" id="navbarColor01">
               <ul className="navbar-nav me-auto">
-                <li className="nav-item">
-                  <Link to="/">Home</Link>
-                  {/* <a className="nav-link active" href="#">Home
-              <span className="visually-hidden">(current)</span>
-            </a> */}
-                </li>
+              
                 <li className="nav-item">
                   {/* <a className="nav-link" href="#">Features</a> */}
-                  <Link to="/Intro">Intro </Link>
+                  <Link to="/Intro">About </Link>
                 </li>
                 <li className="nav-item">
                   {/* <a className="nav-link" href="#">Pricing</a> */}
@@ -52,7 +47,7 @@ export default function Topper() {
 
         <Switch>
           <Route path="/Intro">
-            <Intro />
+            <About />
           </Route>
           <Route path="/Works">
             <Works />
