@@ -15,7 +15,7 @@ import {
 
 export default function Topper() {
   return (
-    <Router>
+    
       <div className='topper'>
         <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
           <div className="container-fluid">
@@ -53,30 +53,9 @@ export default function Topper() {
 
 
 
-        <Switch>
 
-          <Route path="/Intro">
-            <About />
-          </Route>
-          <Route path="/Works">
-            <Works />
-          </Route>
-
-
-          <Route path="/Skills">
-            <Skills />
-          </Route>
-
-          <Route path="/Contact">
-            <Contact />
-          </Route>
-        </Switch>
-
-
-
-
-      </div>
-    </Router>
+    
+    </div>
 
   )
 }
