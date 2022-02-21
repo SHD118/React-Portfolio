@@ -28,36 +28,20 @@ export default function skills() {
                     <div className="progress-bar  bg-success" role="progressbar" style={{ width: '80%' }} aria-valuenow={100} aria-valuemin={0} aria-valuemax={100} />
                 </div>
 
-                <h3>C</h3>
-                <div className="progress">
 
-                    <div className="progress-bar bg-danger" role="progressbar" style={{ width: '100%' }} aria-valuenow={100} aria-valuemin={0} aria-valuemax={100} />
-                </div>
                 <h3>bash</h3>
                 <div className="progress">
 
                     <div className="progress-bar bg-info" role="progressbar" style={{ width: '60%' }} aria-valuenow={100} aria-valuemin={0} aria-valuemax={100} />
                 </div>
-                <h3>SAS</h3>
-                <div className="progress">
 
-                    <div className="progress-bar bg-danger" role="progressbar" style={{ width: '20%' }} aria-valuenow={100} aria-valuemin={0} aria-valuemax={100} />
-                </div>
                 <h3>C# / ASP.NET </h3>
                 <div className="progress">
 
                     <div className="progress-bar bg-success" role="progressbar" style={{ width: '90%' }} aria-valuenow={100} aria-valuemin={0} aria-valuemax={100} />
                 </div>
-                <h3>VBA </h3>
-                <div className="progress">
 
-                    <div className="progress-bar bg-warning" role="progressbar" style={{ width: '30%' }} aria-valuenow={100} aria-valuemin={0} aria-valuemax={100} />
-                </div>
-                <h3>PHP </h3>
-                <div className="progress">
 
-                    <div className="progress-bar " role="progressbar" style={{ width: '70%' }} aria-valuenow={100} aria-valuemin={0} aria-valuemax={100} />
-                </div>
                 <h3>JS</h3>
 
                 <div className="progress">
