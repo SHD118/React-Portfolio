@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75fea0ab.css",
+    "main.js": "/static/js/main.ac475734.js",
+    "static/media/GAMEGO.gif": "/static/media/GAMEGO.009edc19a46550af6696.gif",
+    "static/media/Coding_Quiz.gif": "/static/media/Coding_Quiz.05bdb699c7a9993c869d.gif",
+    "static/media/Weather.gif": "/static/media/Weather.258a99b5afe24b168628.gif",
+    "static/media/Capture4.PNG": "/static/media/Capture4.606362c5260657f3f888.PNG",
+    "static/media/webdevsid.png": "/static/media/webdevsid.bc5e7d4373caaf8f35dd.png",
+    "static/media/sidD.jpg": "/static/media/sidD.c9a46b4ade15d9113be8.jpg",
+    "static/media/socialmediaapi1.PNG": "/static/media/socialmediaapi1.83ed31b7713a2dfa653f.PNG",
+    "static/media/socialmediaapi3.PNG": "/static/media/socialmediaapi3.a0eff5466e43b92897c9.PNG",
+    "static/media/notetaker2.PNG": "/static/media/notetaker2.e7a166c9f7f3ad94dee7.PNG",
+    "static/media/socialmediaapi4.PNG": "/static/media/socialmediaapi4.5451c5ba1828afc67990.PNG",
+    "static/media/notetaker1.PNG": "/static/media/notetaker1.fd5b18cab04dde5bbaf3.PNG",
+    "static/media/socialmediaapi2.PNG": "/static/media/socialmediaapi2.284f74ddb0ac20ffe1fc.PNG",
+    "static/media/03-javascript-homework-demo.png": "/static/media/03-javascript-homework-demo.aa25cbf89939def02f6b.png",
+    "index.html": "/index.html",
+    "main.75fea0ab.css.map": "/static/css/main.75fea0ab.css.map",
+    "main.ac475734.js.map": "/static/js/main.ac475734.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75fea0ab.css",
+    "static/js/main.ac475734.js"
+  ]
+}
