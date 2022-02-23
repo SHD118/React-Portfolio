@@ -53,7 +53,7 @@ This project is free use
 
 ## Links
 
-[Live Link](https://shd118.github.io/Portfolio/)
+[Live Link](https://shd118.github.io/React-Portfolio/)
 
 [Github Link](https://github.com/SHD118/React-Portfolio/blob/master/README.md)
 
