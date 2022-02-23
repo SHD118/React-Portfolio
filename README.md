@@ -21,10 +21,10 @@ I am in the field of information technology and seeking to become a full-stack d
 <br/>
 
 ## Webpage
-![](/img/Capture.png)
-![](/img/Capture2.png)
-![](/img/Capture3.png)
-![](/img/Capture4png)
+![](/img/Capture.PNG)
+![](/img/Capture2.PNG)
+![](/img/Capture3.PNG)
+![](/img/Capture4.PNG)
 
 
 
