@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.75fea0ab.css",
-    "main.js": "/React-Portfolio/static/js/main.ea646843.js",
+    "main.js": "/React-Portfolio/static/js/main.06c3d9f1.js",
     "static/media/GAMEGO.gif": "/React-Portfolio/static/media/GAMEGO.009edc19a46550af6696.gif",
     "static/media/Coding_Quiz.gif": "/React-Portfolio/static/media/Coding_Quiz.05bdb699c7a9993c869d.gif",
     "static/media/Weather.gif": "/React-Portfolio/static/media/Weather.258a99b5afe24b168628.gif",
@@ -17,10 +17,10 @@
     "static/media/03-javascript-homework-demo.png": "/React-Portfolio/static/media/03-javascript-homework-demo.aa25cbf89939def02f6b.png",
     "index.html": "/React-Portfolio/index.html",
     "main.75fea0ab.css.map": "/React-Portfolio/static/css/main.75fea0ab.css.map",
-    "main.ea646843.js.map": "/React-Portfolio/static/js/main.ea646843.js.map"
+    "main.06c3d9f1.js.map": "/React-Portfolio/static/js/main.06c3d9f1.js.map"
   },
   "entrypoints": [
     "static/css/main.75fea0ab.css",
-    "static/js/main.ea646843.js"
+    "static/js/main.06c3d9f1.js"
   ]
 }
