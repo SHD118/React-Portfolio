@@ -21,7 +21,7 @@ function App() {
           <Redirect to="/Intro" />
 
           </Route> */}
-        <Route path="/" element={<Navigate replace to="/Intro" />} /> 
+        <Route path="/"  element={<Intro /> } /> 
           <Route path="/Intro" element={<Intro />} />
           <Route path="/Works" element={<Works />} />
           <Route path="/Contact" element={<Contact />} />

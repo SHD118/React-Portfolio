@@ -6,7 +6,7 @@ import App from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <HashRouter basename='/React-Portfolio'>
+    <HashRouter>
     {/* //  <BrowserRouter> */}
       <App />
       {/* </BrowserRouter> */}
